@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Welcome to my Static Website hosted on the Cloud!");
+    alert("🎉 Welcome to my Static Website hosted on the Cloud!");
 }
